@@ -1,0 +1,154 @@
+body
+
+{
+    background: url(https://wallup.net/wp-content/uploads/2019/09/555324-winter-snow-river-forest-reflection.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.loginbox
+{
+    width: 400px;
+    padding: 40px;
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(50px);
+    overflow: hidden;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.loginbox h2
+{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    color: white;
+}
+
+.loginbox input
+{
+    width: 80%;
+    display: block;
+    padding: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: rgb(240, 240, 240);
+}
+
+.loginbtn
+{
+    color: rgb(255, 255, 255);
+    width: 85%;
+    padding: 8px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    background: rgb(38, 194, 250);
+}
+
+.loginbtn:hover
+{
+    background: rgb(33, 158, 220);
+}
+
+.registerlink
+{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.registerlink span
+{
+    color: white;
+    font-size: 17px;
+}
+
+.registerlink a
+{
+    text-decoration: none;
+    color: rgb(17, 208, 238);
+}
+
+
+
+
+.registerbox
+{
+    width: 400px;
+    padding: 40px;
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(50px);
+    overflow: hidden;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.registerbox h2
+{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    color: white;
+}
+
+.registerbox input
+{
+    width: 80%;
+    display: block;
+    padding: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: rgb(240, 240, 240);
+}
+
+.registerbtn
+{
+    color: rgb(255, 255, 255);
+    width: 85%;
+    padding: 8px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    background: rgb(38, 194, 250);
+}
+
+.registerbtn:hover
+{
+    background: rgb(33, 158, 220);
+}
+
+.loginlink
+{
+    margin-left: 110px;
+    margin-top: 10px;
+}
+
+.loginlink span
+{
+    color: white;
+    font-size: 17px;
+}
+
+.loginlink a
+{
+    text-decoration: none;
+    color: rgb(17, 208, 238);
+}
